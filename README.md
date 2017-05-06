@@ -1,3 +1,3 @@
 # hello-world
-a  weiqi lover
-a latex lover
+a  weiqi and latex lover
+
